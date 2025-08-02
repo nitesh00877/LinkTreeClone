@@ -22,20 +22,20 @@ export default async function Page({ params }) {
         },
         "links": [
             {
-                "link": "https://www.instagram.com/codewithharry/?hl=en",
+                "link": "https://www.instagram.com/NiteshKumar/?hl=en",
                 "linktext": "Instagram"
             },
             {
-                "link": "https://www.codewithharry.com",
+                "link": "https://www.NiteshKumar.com",
                 "linktext": "Website"
             },
             {
-                "link": "https://www.YouTube.com/codewithharry/?hl=en",
+                "link": "https://www.YouTube.com/NiteshKumar/?hl=en",
                 "linktext": "YouTube"
             }
         ],
-        "handle": "harry",
-        "pic": "https://avatars.githubusercontent.com/u/48705673?v=4"
+        "handle": "Nitesh",
+        "pic": "https://www.linkedin.com/in/nitesh-kumar-07b48721b/overlay/photo/"
     }
     return <div className="flex min-h-screen bg-purple-400 justify-center items-start py-10">
         {item && <div className="photo flex justify-center flex-col items-center gap-4"> 
